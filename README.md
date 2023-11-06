@@ -2,6 +2,7 @@
 Unity Engine Project
 
 *gameplay*
+
 ![alt text](https://github.com/PiotrCynowski/2D_Scroll_Arcade_Game/blob/master/pic/Gameplay.png?raw=true)
 
 *Main Gameplay scene -> Scenes/Main.unity*
@@ -17,6 +18,7 @@ In main scene there are 4 prefabs:
 - *holds bullet prefabs* with bullet speed
 
 *enemy manager setup example*
+
 ![alt text](https://github.com/PiotrCynowski/2D_Scroll_Arcade_Game/blob/master/pic/EnemyManager.png?raw=true)
 
 #### - EnemyManager 
